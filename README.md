@@ -49,7 +49,7 @@ During Fall 2019, I completed a 4-month long software development project that m
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-logo.png"/><br>Tesseract OCR</td>
              <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"><br>Jupyter Notebook</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Low-level Programming</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
@@ -76,7 +76,7 @@ During Fall 2019, I completed a 4-month long software development project that m
     <summary align="center"><strong>Contact:</strong></summary>
      <table align="center">
          <tr align="center">
-             <td  align = "center"><a href=""><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Website</a></td>
+             <td  align = "center"><a href="https://jtonyortiz.github.io/"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Personal Website</a></td>
              <td  align = "center"><a href="https://www.linkedin.com/in/jamesaortiz/"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a>
              <td  align = "center"><a href="https://www.facebook.com/JamesAOrtiz"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/><br>Facebook</a></td>
      </tr>
