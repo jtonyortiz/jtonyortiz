@@ -1,4 +1,4 @@
-### :star: James Anthony Ortiz :computer:
+### James Ortiz :computer:
 
 ## :small_blue_diamond: Introduction:
 Hello everyone, my name is James, I am a Computer Science graduate from Florida State University (FSU). I love to learn about new technologies and recent developments in software as well as improving on important development concepts. I consider myself a generalist among a lot of computer languages (like Kotlin, Java, Python, JavaScript), but I focus most of my attention on C/C++ and C#. While my focus is on **Systems Programming and Development**, I am also familiar with creating Web / Desktop Applications, and Mobile Development with Android.
