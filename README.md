@@ -1,4 +1,6 @@
-### James Ortiz :computer:
+### :computer: James Ortiz
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jtonyortiz.jtonyortiz)
+
 
 ## :small_blue_diamond: Introduction
 Hello everyone, my name is James, I am a Computer Science graduate from Florida State University (FSU). I enjoy learning about new technologies and recent developments in software as well as improving on important software development concepts. I consider myself a generalist of computer languages (mainly C++, Python, Java, JavaScript, TypeScript). 
@@ -7,7 +9,8 @@ Domains I have worked in:
 - Data Analytics
 - Data Science 
 - Artificial Intelligence
-- GUI Development 
+- Graphical User Interface (GUI) Development 
+- Operating Systems (OS) Development
 
 
 ## :small_blue_diamond: Experience
@@ -41,7 +44,7 @@ During Fall 2019, I completed a 4-month long software development project that m
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
          </tr>
      </table>
-        </details>
+   </details>
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
      <table align="center">
@@ -78,7 +81,7 @@ During Fall 2019, I completed a 4-month long software development project that m
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/hadoop-distributed-file-system.png"/><br>Hadoop</td>
          </tr>
      </table>
-        </details>
+   </details>
 <details align="center">
     <summary align="center"><strong>Contact:</strong></summary>
      <table align="center">
@@ -101,6 +104,13 @@ During Fall 2019, I completed a 4-month long software development project that m
 - 😄 Pronouns: He/Him
 
 
+## :trophy: My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jtonyortiz&count_private=true&hide=issues&show_icons=true&theme=gruvbox" height="140px" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtonyortiz&layout=compact&theme=gruvbox" height="140px" />
+</p>
 
 <!--
 **jtonyortiz/jtonyortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
