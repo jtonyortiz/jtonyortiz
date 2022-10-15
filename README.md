@@ -1,14 +1,11 @@
-### :computer: James Ortiz
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jtonyortiz.jtonyortiz)
-
 
 ## :small_blue_diamond: Introduction
 Hello everyone, my name is James, I am a Computer Science graduate from Florida State University (FSU). I enjoy learning about new technologies and recent developments in software as well as improving on important software development concepts. I consider myself a generalist of computer languages (mainly C++, Python, Java, JavaScript, TypeScript). 
 
 Domains I have worked in:
-- Data Analytics
 - Data Science 
 - Artificial Intelligence
+- Distributed Systems 
 - Graphical User Interface (GUI) Development 
 - Operating Systems (OS) Development
 
@@ -95,11 +92,11 @@ During Fall 2019, I completed a 4-month long software development project that m
 
 
 
-- 🔭 I’m currently working on: Learning PySpark, Data Visualization, and Embedded AI Apps
-- 🌱 I’m currently learning: SciKit Learn, Qt Development, Web Applications in Angular 
-- 👯 I’m looking to collaborate on: Open-Source Projects!
+- 🔭 I’m currently working on: RESTful Spring API Development
+- 🌱 I’m currently learning: Data Engineering on GCP (Google Cloud Platform), NLP, ML Algorithms
+- 👯 I’m looking to collaborate on: Open-Source Projects
 - 🤔 I’m looking for help with: Networking with other Developers
-- 💬 Ask me about: My Experience & Mentorship
+- 💬 Ask me about: Experience & Mentorship
 - 📫 How to reach me: jamesaortiz75@gmail.com - You can also find me on [LinkedIn](https://www.linkedin.com/in/jamesaortiz/)
 - 😄 Pronouns: He/Him
 
