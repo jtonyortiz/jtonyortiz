@@ -3,7 +3,7 @@
 Hello everyone, my name is James, I am a Computer Science graduate from Florida State University (FSU). I enjoy learning about new technologies and recent developments in software as well as improving on important software development concepts. I consider myself a generalist of computer languages (mainly C++, Python, Java, JavaScript, TypeScript). 
 
 Domains I have worked in:
-- Data Science 
+- Data Engineering 
 - Artificial Intelligence
 - Distributed Systems 
 - Graphical User Interface (GUI) Development 
@@ -92,8 +92,8 @@ During Fall 2019, I completed a 4-month long software development project that m
 
 
 
-- 🔭 I’m currently working on: RESTful Spring API Development
-- 🌱 I’m currently learning: Data Engineering on GCP (Google Cloud Platform), NLP, ML Algorithms
+- 🔭 I’m currently working on: Snowflake Data Cloud, Data Warehousing Development
+- 🌱 I’m currently learning: AWS SageMaker, ML Algorithms, Systems Programming with Rust
 - 👯 I’m looking to collaborate on: Open-Source Projects
 - 🤔 I’m looking for help with: Networking with other Developers
 - 💬 Ask me about: Experience & Mentorship
@@ -108,6 +108,7 @@ During Fall 2019, I completed a 4-month long software development project that m
   &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtonyortiz&layout=compact&theme=gruvbox" height="140px" />
 </p>
+
 
 <!--
 **jtonyortiz/jtonyortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
