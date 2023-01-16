@@ -92,23 +92,13 @@ During Fall 2019, I completed a 4-month long software development project that m
 
 
 
-- 🔭 I’m currently working on: Snowflake Data Cloud, Data Warehousing Development
-- 🌱 I’m currently learning: AWS SageMaker, ML Algorithms, Systems Programming with Rust
+- 🔭 I’m currently working on: Updateing Repos (Ongoing), Embedded Development
+- 🌱 I’m currently learning: Systems Programming with Rust, C++
 - 👯 I’m looking to collaborate on: Open-Source Projects
 - 🤔 I’m looking for help with: Networking with other Developers
 - 💬 Ask me about: Experience & Mentorship
 - 📫 How to reach me: jamesaortiz75@gmail.com - You can also find me on [LinkedIn](https://www.linkedin.com/in/jamesaortiz/)
 - 😄 Pronouns: He/Him
-
-
-## :trophy: My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtonyortiz&count_private=true&hide=issues&show_icons=true&theme=gruvbox" height="140px" />
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtonyortiz&layout=compact&theme=gruvbox" height="140px" />
-</p>
-
 
 <!--
 **jtonyortiz/jtonyortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
