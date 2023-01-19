@@ -3,15 +3,15 @@
 Hello everyone, my name is James, I am a Computer Science graduate from Florida State University (FSU). I enjoy learning about new technologies and recent developments in software as well as improving on important software development concepts. I consider myself a generalist of computer languages (mainly C++, Python, Java, JavaScript, TypeScript). 
 
 Domains I have worked in:
-- Data Engineering 
-- Artificial Intelligence
-- Distributed Systems 
-- Graphical User Interface (GUI) Development 
-- Operating Systems (OS) Development
+- Data Engineering (Formerly)
+- Distributed Systems (Formerly)
+- Systems Programming (Current)
+- Graphical User Interface (GUI) Development (Current)
+- Operating Systems (OS) Development (Current)
 
 
 ## :small_blue_diamond: Experience
-My curiosity with software development started out in grade school. As a pragmatic learner, I began picking up ANSI C development by my own interest and later began using the WIN32 API for Windows applications. Eventually I got bored of Windows ME and I was then introduced to Ubuntu Linux at a local LUG (Linux User Group) gathering at a local library in 2005. I started out by building a few small console apps such as a tetris game, and a calculator. My access to the internet was scarce as I still did not have internet from home, so I learned on my own by borrowing books from a public library along with useing the compilers and man pages provided by the Linux OS itself. Now, being a graduate in this field, my understanding of Software Development has changed dramatically ever since I have began to study Computer Science from an academic perspective, and not just seeing programming as a daily hobby, ultimately preparing me for work in industry.
+My curiosity with software development started out in grade school. As a pragmatic learner, I began picking up ANSI C development by my own interest and later began using the WIN32 API for Windows applications. Eventually I got bored of Windows ME and I was then introduced to Ubuntu Linux at a local LUG (Linux User Group) gathering at a local library in 2005. I started out by building a few small console apps such as a tetris game, and a calculator. My access to the internet was scarce as I still did not have internet from home, so I learned on my own by borrowing books from a public library along with using the compilers and man pages provided by the Linux OS itself. Now, being a graduate in this field, my understanding of Software Development has changed dramatically ever since I have began to study Computer Science from an academic perspective, and not just seeing programming as a daily hobby, ultimately preparing me for work in industry.
 
 ### :small_blue_diamond: SWE I Capstone Project: Real-Time Vehicle Identifier for Bicycles (Machine Learning)
 During Fall 2019, I completed a 4-month long software development project that my team (ByteMyAscii) created. Essentially, the project consisted on building an embedded machine-learning program that could be mounted on a bicycle that could provide the cyclist the ability to have a 3rd eye on the road and be able to note an incoming/oncoming vechicle without turning around. To achieve this goal, my team used a Raspberry-pi, a computer with Linux, an NVIDIA Graphics Card, multiple machine learning and image processing libraries, as well as a general understanding of Python. Despite encountering some diffculties with the constraints and limitations that the Raspberry-Pi had, the project was a success in both theory and practice, and was completed entirely remotely through daily online scrum mettings as well as by applying modern Agile development strategies. Please see this repository for more info: [See Project](https://github.com/Aristaea16/vehicle-classifier)
@@ -90,15 +90,6 @@ During Fall 2019, I completed a 4-month long software development project that m
     </table>
 </details>
 
-
-
-- 🔭 I’m currently working on: Updateing Repos (Ongoing), Embedded Development
-- 🌱 I’m currently learning: Systems Programming with Rust, C++
-- 👯 I’m looking to collaborate on: Open-Source Projects
-- 🤔 I’m looking for help with: Networking with other Developers
-- 💬 Ask me about: Experience & Mentorship
-- 📫 How to reach me: jamesaortiz75@gmail.com - You can also find me on [LinkedIn](https://www.linkedin.com/in/jamesaortiz/)
-- 😄 Pronouns: He/Him
 
 <!--
 **jtonyortiz/jtonyortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
